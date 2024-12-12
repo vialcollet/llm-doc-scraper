@@ -77,4 +77,6 @@ Feel free to open issues or submit pull requests if you have suggestions for imp
 
 ## License
 
-MIT License - feel free to use this tool for your documentation needs. 
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+This means you can freely use, modify, and distribute this software, but any modifications must also be released under the GPL-3.0 license. For more information, visit [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html). 
